@@ -1,0 +1,9 @@
+{
+  "name": "kubernetes_app",
+  "version": "1.0.0",
+  "repository": "git@github.com:willowsenator/kubernetes_app.git",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
